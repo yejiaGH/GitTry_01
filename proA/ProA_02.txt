@@ -1,2 +1,7 @@
 Test yejiaalice that create the file.
+<<<<<<< HEAD
 changed by yejiaalice again.
+=======
+Changed by yejiaGH
+Changed by yejiaGH again.
+>>>>>>> 01f15ad4fd2851c94b5ad73af6ddcd800b755463
