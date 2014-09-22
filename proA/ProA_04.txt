@@ -1,3 +1,7 @@
 alice.ye create ProA_04
 alice.ye modify ProA_04
+<<<<<<< HEAD
 alice.ye modify2 ProA_04
+=======
+alice.ye modify ProA_04 from branch local
+>>>>>>> local
